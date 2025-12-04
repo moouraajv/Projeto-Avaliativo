@@ -14,4 +14,4 @@ período decorrido do segundo semestre do ano de 2025, sendo feito para uma aval
 
 O projeto foi publicado com sucesso, link abaixo:
 
-* **Publicado via Netlify/Vercel:** https://6930fcfbe9551546e22558e3--projeto-avaliativo-3ciclo.netlify.app/
+* **Publicado via Vercel:** https://projeto-avaliativo-xi.vercel.app/
