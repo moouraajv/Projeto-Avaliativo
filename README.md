@@ -2,8 +2,8 @@
 
 ## Tema do Site
 
-Este projeto consiste em um site criado com o objetivo de demonstrar minhas habilidades e conhecimentos adquiridos no período 
-decorrido, sendo feito para uma avaliação prática.
+Este projeto consiste em um site portfólio criado com o objetivo de demonstrar minhas habilidades e conhecimentos adquiridos no 
+período decorrido do segundo semestre do ano de 2025, sendo feito para uma avaliação prática.
 
 ## Dados do Aluno
 
